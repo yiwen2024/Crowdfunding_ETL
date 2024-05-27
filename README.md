@@ -22,7 +22,7 @@ List of Content
 
 2. A Jupyter Notebook named ETL_Mini_Project_YWen_J.Singh
 
-3. Three SQL files: crowdfunding_db_schema_J_Singh
+3. One SQL files: crowdfunding_db_schema_Yi Wen_J_Singh
 
 4. Images of ERD and diagram of ETL
 
