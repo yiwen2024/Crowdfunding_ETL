@@ -1,5 +1,8 @@
 # Crowdfunding_ETL
 Project 2
+Contributors
+Yi Wen
+Jaskirat Singh
 
 Background
 
@@ -19,7 +22,7 @@ List of Content
 
 2. A Jupyter Notebook named ETL_Mini_Project_YWen_J.Singh
 
-3. Three SQL files: crowdfunding_db_schema, Select_queries, and QuickDBD_ETL_mini_Project
+3. Three SQL files: crowdfunding_db_schema_J_Singh
 
 4. Images of ERD and diagram of ETL
 
